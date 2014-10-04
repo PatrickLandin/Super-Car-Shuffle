@@ -1,0 +1,71 @@
+button {
+  font-size: 77px;
+  background-color: red;
+  border: solid 2px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #ffa400;
+  cursor: pointer;
+}
+
+th, td {
+  border-radius: 4px;
+}
+
+th {
+  font-size: 33px;
+  background-color: #007ccc;
+  font-weight: bold;
+  text-transform: uppercase;
+  max-width: 233px;
+}
+
+td {
+  font-size: 33px;
+  z-index: 100;
+  background-color: white;
+}
+
+table.sortableStatistics th:hover {
+  background-color: #00cccc;
+  color: #fff;
+}
+
+table.sortableStatistics {
+  margin: 0px auto;
+  padding-right: 33px;
+  padding-left: 7px;
+}
+
+
+#backgroundImage {
+  position: fixed;
+  min-height: 120%;
+  min-width: 105%;
+  opacity: .19;
+  top: -1%;
+  left: -1%;
+  z-index: -1;
+}
+
+h1 {
+  font-family: Monaco;
+  font-size: 49px;
+  background-color: black;
+  color: yellow;
+  text-align: center; 
+}
+
+h2 {
+  color: brown;
+  text-align: center;
+  font-size: 28px;
+}
+
+#lambo, #gt3, #sls, #mp4, #f458 {
+  max-width: 222px;
+  max-height: 200px;
+  padding-top: 44px;
+}

@@ -1,0 +1,1 @@
+This is a simple sorting game for a road trip amongst my friends. 5 different super cars are randomly assigned to each person. Press the "sorty button" to randomly shuffle the car names.
